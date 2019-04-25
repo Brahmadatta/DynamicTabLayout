@@ -1,4 +1,4 @@
-package escapadetechnologies.com.tablayoutexample;
+package Example.com.tablayoutexample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

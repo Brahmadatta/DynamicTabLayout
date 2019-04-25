@@ -1,4 +1,4 @@
-package escapadetechnologies.com.tablayoutexample;
+package Example.com.tablayoutexample;
 
 import org.junit.Test;
 
