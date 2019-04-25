@@ -28,4 +28,8 @@
         <item name="android:textColor">@color/white</item>
     </style>
 
+    <style name="HeaderBar">
+        <item name="android:background">#ffffff</item>
+    </style>
+
 </resources>
